@@ -1,0 +1,25 @@
+{
+  "name": "Hangman-Game-in-Node.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "inquirer": "^5.0.1",
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmiquela/Hangman-Game-in-Node.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmiquela/Hangman-Game-in-Node.js/issues"
+  },
+  "homepage": "https://github.com/mmiquela/Hangman-Game-in-Node.js#readme"
+}
